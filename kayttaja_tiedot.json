@@ -1,0 +1,86 @@
+{
+    "kayttajat": [
+        {
+            "kayttaja_id": 1,
+            "postaukset": 10,
+            "sanat": 254,
+            "keskiarvo_sanoja": 25.4
+        },
+        {
+            "kayttaja_id": 2,
+            "postaukset": 10,
+            "sanat": 240,
+            "keskiarvo_sanoja": 24.0
+        },
+        {
+            "kayttaja_id": 3,
+            "postaukset": 10,
+            "sanat": 229,
+            "keskiarvo_sanoja": 22.9
+        },
+        {
+            "kayttaja_id": 4,
+            "postaukset": 10,
+            "sanat": 277,
+            "keskiarvo_sanoja": 27.7
+        },
+        {
+            "kayttaja_id": 5,
+            "postaukset": 10,
+            "sanat": 237,
+            "keskiarvo_sanoja": 23.7
+        },
+        {
+            "kayttaja_id": 6,
+            "postaukset": 10,
+            "sanat": 221,
+            "keskiarvo_sanoja": 22.1
+        },
+        {
+            "kayttaja_id": 7,
+            "postaukset": 10,
+            "sanat": 234,
+            "keskiarvo_sanoja": 23.4
+        },
+        {
+            "kayttaja_id": 8,
+            "postaukset": 10,
+            "sanat": 238,
+            "keskiarvo_sanoja": 23.8
+        },
+        {
+            "kayttaja_id": 9,
+            "postaukset": 10,
+            "sanat": 223,
+            "keskiarvo_sanoja": 22.3
+        },
+        {
+            "kayttaja_id": 10,
+            "postaukset": 10,
+            "sanat": 232,
+            "keskiarvo_sanoja": 23.2
+        }
+    ],
+    "top_sanat": [
+        {
+            "sana": "et",
+            "maara": 110
+        },
+        {
+            "sana": "aut",
+            "maara": 64
+        },
+        {
+            "sana": "qui",
+            "maara": 61
+        },
+        {
+            "sana": "ut",
+            "maara": 54
+        },
+        {
+            "sana": "est",
+            "maara": 45
+        }
+    ]
+}
